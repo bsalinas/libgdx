@@ -1409,7 +1409,7 @@ public class Hiero extends JFrame {
 
 			batch = new SpriteBatch();
 
-			sampleNeheButton.doClick();
+//			sampleNeheButton.doClick();
 		}
 
 		public void resize (int width, int height) {
